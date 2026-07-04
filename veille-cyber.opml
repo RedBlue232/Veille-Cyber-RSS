@@ -110,7 +110,7 @@
       <outline text="CERT-EU — Security Advisories" title="CERT-EU — Security Advisories" type="rss" xmlUrl="https://cert.europa.eu/publications/security-advisories-rss" htmlUrl="https://cert.europa.eu/publications/security-advisories/" />
       <outline text="CIRCL — Known Exploited Vulnerabilities" title="CIRCL — Known Exploited Vulnerabilities" type="rss" xmlUrl="https://vulnerability.circl.lu/known-exploited-vulnerabilities.rss" htmlUrl="https://vulnerability.circl.lu" />
       <outline text="CIRCL — Vulnerability Lookup" title="CIRCL — Vulnerability Lookup" type="rss" xmlUrl="https://vulnerability.circl.lu/recent/all.atom" htmlUrl="https://vulnerability.circl.lu" />
-      <outline text="Google Project Zero" title="Google Project Zero" type="rss" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/" />
+      <outline text="Google Project Zero" title="Google Project Zero" type="rss" xmlUrl=" https://projectzero.google/feed.xml" htmlUrl=" https://projectzero.google/feed.xml" />
     </outline>
     <outline text="CTI Feeds &amp; Attack Monitoring" title="CTI Feeds &amp; Attack Monitoring">
       <outline text="0day.fans" title="0day.fans" type="rss" xmlUrl="https://0dayfans.com/feed.rss" htmlUrl="https://0dayfans.com/" />
