@@ -42,7 +42,9 @@
       <outline text="Risky Business News" title="Risky Business News" type="rss" xmlUrl="https://risky.biz/feeds/risky-business-news/" htmlUrl="https://news.risky.biz" />
       <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom/" htmlUrl="https://www.schneier.com/feed/atom/" />
       <outline text="Seclists - Daily Dave" title="Seclists - Daily Dave" type="rss" xmlUrl="https://seclists.org/rss/dailydave.rss" htmlUrl="https://seclists.org/#dailydave" />
+      <outline text="Secure in Seconds" title="Secure in Seconds" type="rss" xmlUrl="https://www.secureinseconds.com/feed.xml" htmlUrl="https://www.secureinseconds.com/blog" />
       <outline text="Security Affairs" title="Security Affairs" type="rss" xmlUrl="https://securityaffairs.com/feed" htmlUrl="https://securityaffairs.com" />
+      <outline text="Security Boulevard" title="Security Boulevard" type="rss" xmlUrl="https://feeds.feedburner.com/SecurityBoulevard" htmlUrl="https://securityboulevard.com/" />
       <outline text="SecurityWeek" title="SecurityWeek" type="rss" xmlUrl="https://www.securityweek.com/feed/" htmlUrl="https://www.securityweek.com/" />
       <outline text="TaoSecurity Blog" title="TaoSecurity Blog" type="rss" xmlUrl="https://taosecurity.blogspot.com/feeds/posts/default" htmlUrl="https://www.blogger.com/feeds/4088979/posts/default" />
       <outline text="The Cyber Express" title="The Cyber Express" type="rss" xmlUrl="https://thecyberexpress.com/feed/" htmlUrl="https://thecyberexpress.com" />
@@ -308,6 +310,7 @@
       <outline text="Naveen Srinivasan (OpenSSF)" title="Naveen Srinivasan (OpenSSF)" type="rss" xmlUrl="https://naveensrinivasan.com/posts/index.xml" htmlUrl="https://naveensrinivasan.com/posts/" />
       <outline text="Patchstack (WordPress)" title="Patchstack (WordPress)" type="rss" xmlUrl="https://patchstack.com/feed/" htmlUrl="https://patchstack.com/" />
       <outline text="ProjectDiscovery" title="ProjectDiscovery" type="rss" xmlUrl="https://projectdiscovery.io/rss.xml" htmlUrl="https://projectdiscovery.io/blog" />
+      <outline text="Roland Farkas" title="Roland Farkas" type="rss" xmlUrl="https://rolandfarkas.com/rss.xml" htmlUrl="https://rolandfarkas.com/blog" />
       <outline text="Securing Laravel" title="Securing Laravel" type="rss" xmlUrl="https://securinglaravel.com/rss/" htmlUrl="https://securinglaravel.com/" />
       <outline text="Semgrep" title="Semgrep" type="rss" xmlUrl="https://semgrep.dev/blog/rss/" htmlUrl="https://semgrep.dev" />
       <outline text="Socket" title="Socket" type="rss" xmlUrl="https://socket.dev/api/blog/feed.atom" htmlUrl="https://socket.dev/api/blog/feed.atom" />
